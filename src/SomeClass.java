@@ -6,5 +6,11 @@ public class SomeClass {
 		System.out.println("Is my name really Sputnik?");
 
 	}
+	
+	public void thoughtForTheDay() {
+		
+		System.out.println("SPUTNIK");
+		
+	}
 
 }
